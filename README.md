@@ -18,7 +18,7 @@
 ## Objective
 The primary objective of this task is to understand and implement marketing automation using Mailchimp. The goal is to create an automated email marketing campaign to engage with our audience effectively, improve customer retention, and boost overall marketing efficiency.
 
-##Key Activities
+## Key Activities
 - **Audience Segmentation**: Analyzed and segmented customer data to create targeted email lists.
 - **Workflow Design and Setup**: Designed and configured automation workflows with specific triggers and actions.
 - **Content Creation and Personalization**: Developed personalized email content tailored to each audience segment.
