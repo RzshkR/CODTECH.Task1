@@ -1,8 +1,13 @@
 **Name:** NONGMEIKAPAM RAJESHKUMAR
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT4DM3950
+
 **Domain:** DIGITAL MARKETING
+
 **Duration:** 5th JULY to 5th AUGUST, 2024
+
 **Mentor:** Muzammil
 
 
