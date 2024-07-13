@@ -42,7 +42,14 @@ iii. Content Creation and Personalization:
 -Ensured the content was visually appealing and aligned with the company's branding.
 
 Here are some screenshots of my task:-
+
 ![Screenshot (231)](https://github.com/user-attachments/assets/e26c663d-e9ec-47cc-9571-9e00dbecdc76)
+![Screenshot (222)](https://github.com/user-attachments/assets/e8e00c26-76a6-4e59-b000-312acf6751ca)
+![Screenshot (228)](https://github.com/user-attachments/assets/1d08bae6-e188-49a3-8a3b-17eaeded81cc)
+![Screenshot (227)](https://github.com/user-attachments/assets/e9cfceb8-779a-4f23-b639-d70c80441a73)
+![Screenshot (226)](https://github.com/user-attachments/assets/9471afe4-67fa-447d-9b32-3cea4239f614)
+![Screenshot (225)](https://github.com/user-attachments/assets/0c08a1d6-07b6-4193-b770-e4b606901aa7)
+![Screenshot (224)](https://github.com/user-attachments/assets/b2d53221-240e-44bb-bcfb-d8d5a7caf48c)
 
 
 
