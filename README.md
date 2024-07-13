@@ -85,6 +85,6 @@ d. Professional Development:
 
 
 
-I would like to express my sincere gratitude to CODTECH IT SOLUTIONS for providing me with this invaluable internship opportunity. This experience has been instrumental in enhancing my understanding of digital marketing and marketing automation. I am particularly thankful for the task on marketing automation with Mailchimp, which allowed me to apply theoretical knowledge in a practical setting and gain hands-on experience.
+**I would like to express my sincere gratitude to CODTECH IT SOLUTIONS for providing me with this invaluable internship opportunity. This experience has been instrumental in enhancing my understanding of digital marketing and marketing automation. I am particularly thankful for the task on marketing automation with Mailchimp, which allowed me to apply theoretical knowledge in a practical setting and gain hands-on experience.
 
-Thank you, CODTECH IT SOLUTIONS, for your guidance, support, and the opportunity to grow professionally. This internship has significantly contributed to my career development, and I am grateful for the chance to be part of such a dynamic and supportive team.
+Thank you, CODTECH IT SOLUTIONS, for your guidance, support, and the opportunity to grow professionally. This internship has significantly contributed to my career development, and I am grateful for the chance to be part of such a dynamic and supportive team.**
