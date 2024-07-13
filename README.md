@@ -28,17 +28,23 @@ The primary objective of this task is to understand and implement marketing auto
   i. Audience Segmentation:
 
 -Conducted a thorough analysis of the company's customer data.
+
 -Segmented the audience based on various criteria such as demographics, purchase history, and engagement levels.
+
 -Created targeted lists to ensure personalized and relevant email content for each segment.
+
 
 ii. Workflow Design and Setup:
 
 -Designed the automation workflows using Mailchimp's tools.
+
 -Configured the timing and sequence of emails to optimize engagement and conversion rates.
+
 
 iii. Content Creation and Personalization:
 
 -Developed compelling email content tailored to each audience segment.
+
 -Ensured the content was visually appealing and aligned with the company's branding.
 
 Here are some screenshots of my task:-
