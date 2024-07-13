@@ -23,7 +23,7 @@ The primary objective of this task is to understand and implement marketing auto
 - **Workflow Design and Setup**: Designed and configured automation workflows with specific triggers and actions.
 - **Content Creation and Personalization**: Developed personalized email content tailored to each audience segment.
 
-- ##How I did it
+ ## How I did it
   
   i. Audience Segmentation:
 
